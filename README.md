@@ -5,8 +5,8 @@ Each assignment is organized into separate directories for easy navigation.
 Table of Content
 - Assignment 1: Poster on Career Development
 - Assignment 2: Video on UTM
-- Assignment 3: Report on Industry Talk 2 Sistem Development
-- Assignment 4: 
+- Assignment 3: Report Design Thinking
+- Assignment 4: Report on Industry Talk 2 Sistem Development
 
 Feel free to explore each assignment directory to view my assignments!
 For any inquiries or questions, you can reach me at [fnurzahin@gmail.com].
