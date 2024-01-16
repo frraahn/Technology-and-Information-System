@@ -7,9 +7,9 @@ Welcome to my Technology and Information System GitHub portfolio repository wher
 
 # Assignments
 - Assignment 1: Poster on Career Development
-- Assignment 2: Video on UTM
-- Assignment 3: Report 
-- Assignment 4: Technical Paper IEEE Format
+- Assignment 2: Video about Industrial Visit at UTMDigital
+- Assignment 3: Report (Academic Report)
+- Assignment 4: Technical Paper IEEE Format (Newsletter)
 - PC Assembly
 - Design Thinking
 
