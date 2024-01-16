@@ -1,6 +1,5 @@
 # Technology and Information System
-Welcome to my Technology and Information System GitHub portfolio repository where I've compiled all my assignments for my first semester of my first year student in Computer Science (Data Engineering). 
-Each assignment is organized into separate directories for easy navigation.
+Welcome to my Technology and Information System GitHub portfolio repository where I've compiled all my assignments for my first semester of my first year student in Computer Science (Data Engineering). This course will introduce students to information systems and technology (IS/IT) and its uses at home and work. Various aspects of IS/IT encompassing hardware, software, network and communications will be introduced. Students are equipped with basic skills in handling PC installation and productivity tools via practical work in the labs, which shall comprise a major part of the study. Each assignment is organized into separate directories for easy navigation.
 
 - [Assignments](#assignments)
 - [Reflection](#reflection)
