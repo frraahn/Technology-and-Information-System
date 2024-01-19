@@ -41,4 +41,4 @@ I am inspired to join the technology industry as a data scientist or data analys
 </details>
 
 Feel free to explore each assignment directory to view my assignments!
-For any inquiries or questions, you can reach me at [fnurzahin@gmail.com].
+For any inquiries or questions, you can reach me at [fnurzahin@graduate.utm.my].
