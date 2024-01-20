@@ -39,6 +39,3 @@ Participating in the PC assembly task was especially fulfilling since it allowed
 <summary>Reflection on Design Thinking</summary>
 I am inspired to join the technology industry as a data scientist or data analyst. My goal is to use data analyst skills to help organisations and technology advancement by coming up with intelligent solutions. Design thinking provides five unique methods that help designers to solve issues. I can also detect customer difficulties more effectively thanks to design thinking. I hope to improve my potential by using the knowledge I've gained during my profession, especially by using the Design Thinking methods.
 </details>
-
-Feel free to explore each assignment directory to view my assignments!
-For any inquiries or questions, you can reach me at [fnurzahin@graduate.utm.my].
