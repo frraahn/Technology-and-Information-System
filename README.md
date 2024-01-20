@@ -11,7 +11,7 @@ Welcome to my Technology and Information System GitHub portfolio repository wher
 - Assignment 3: [Report](https://github.com/frraahn/Technology-and-Information-System/blob/main/INDUSTRY%20TALK%20GROUP%205%20(2).pdf) (Academic Report)
 - Assignment 4: Technical Paper IEEE Format [(Newsletter)](https://github.com/frraahn/Technology-and-Information-System/blob/main/Newsletter.pdf)
 - [PC Assembly](https://github.com/frraahn/Technology-and-Information-System/blob/main/PC%20ASSEMBLY%20(22%20November%202023).pdf)
-- Design Thinking
+- [Design Thinking](https://github.com/frraahn/Technology-and-Information-System/tree/main/design%20thinking)
 
 # Reflection 
 <details> 
