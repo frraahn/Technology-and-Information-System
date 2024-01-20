@@ -9,7 +9,7 @@ Welcome to my Technology and Information System GitHub portfolio repository wher
 - Assignment 1: [Poster](https://github.com/frraahn/Technology-and-Information-System/blob/main/Career%20Development%20(2).pdf) on Career Development
 - Assignment 2: [Video](https://drive.google.com/file/d/1Q4qsLHHTpY77xGSqLDSRzS9mYXmF-vMT/view?usp=drivesd) about Industrial Visit at UTMDigital
 - Assignment 3: [Report](https://github.com/frraahn/Technology-and-Information-System/blob/main/INDUSTRY%20TALK%20GROUP%205%20(2).pdf) (Academic Report)
-- Assignment 4: Technical Paper IEEE Format (Newsletter)
+- Assignment 4: Technical Paper IEEE Format [(Newsletter)](https://github.com/frraahn/Technology-and-Information-System/blob/main/Newsletter.pdf)
 - PC Assembly
 - Design Thinking
 
